@@ -5,7 +5,9 @@
 				<li class='ease-in'>Introduction</li>
 				<li class='ease-in'>Work</li>
 				<li class='ease-in'>Stuff</li>
-				<li class='ease-in'>Stuff</li>
+				<li class='ease-in'>
+					<a href="#section3">Section 3</a>
+				</li>
 			</ul>
     </nav>
     <router-view/>
@@ -67,5 +69,8 @@ nav ul li:hover, nav ul li:focus {
 }
 .full-width > .v-parallax__image-container {
 	width: 100%;
+}
+html {
+	scroll-behavior: smooth;
 }
 </style>

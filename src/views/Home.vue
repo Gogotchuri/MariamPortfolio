@@ -15,7 +15,7 @@
 			</v-flex>
 		</v-row>
 		<v-row justify="center">
-			<v-flex xs12 class="pa-10" style="border: 1px solid red">
+			<v-flex id="section3" xs12 class="pa-10" style="border: 1px solid red">
 				<v-parallax src="https://steamuserimages-a.akamaihd.net/ugc/269464574501206093/D6BEAD6CD17F75F2177AC93D8C71EFC732E8066F/">
 					ASDA
 				</v-parallax>
